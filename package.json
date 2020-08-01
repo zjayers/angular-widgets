@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Showcase of various widgets built with Angular",
-  "homepage": "https://github.com/zjayers/angular-widgets#readme",
+  "homepage": "https://zjayers.github.io/angular-widgets/",
   "bugs": {
     "url": "https://github.com/zjayers/angular-widgets/issues"
   },
@@ -48,6 +48,7 @@
     "@types/jasmine": "~3.5.0",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "^12.11.1",
+    "angular-cli-ghpages": "^0.6.2",
     "codelyzer": "^5.1.2",
     "husky": "^4.2.5",
     "jasmine-core": "~3.5.0",
